@@ -1,0 +1,38 @@
+ol {
+    display: block;
+}
+body {
+    background-color: powderblue;
+}
+html {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.bob {
+    background: rgb(77, 6, 77);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black;
+    width: 450px;
+    border-radius: 30px;
+    margin-left: 30%;
+    box-shadow: 8px 10px 10px gray;
+    color: white;
+}
+
+
+
+.bob li{
+    margin-left: 50px;
+}
+
+#caseStudyImg {
+    width: 100px;
+}
+
+.gin {
+    width: 94%;
+    margin-left: 0%;
+    text-align: center;
+}
